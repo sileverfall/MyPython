@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bookstore>
+    <book>
+        <title>Harry Potter</title>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Learn XML</title>
+        <price>75</price>
+    </book>
+</bookstore>
